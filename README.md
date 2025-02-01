@@ -1,8 +1,8 @@
 # Custom Android Kernels
 
-Welcome to the **AMD Reborn+** project! 🚀
+Welcome to my project! 🚀
 
- It's designed to offer enhanced performance, stability. Currently, I'm using **Ubuntu WSL** for development and building with **AOSP Clang** for the kernel compilation. 
+ It's designed to offer enhanced performance, stability. Currently, I'm making custom kernels for **POCO F4** building with **AOSP Clang** for the kernel compilation. 
 
 ---
 
