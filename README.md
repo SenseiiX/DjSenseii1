@@ -2,7 +2,7 @@
 
 Welcome to the **AMD Reborn+** project! 🚀
 
- It's designed to offer enhanced performance, stability, and features for Android devices. Currently, I'm using **Ubuntu WSL** for development and building with **AOSP Clang** for the kernel compilation. 
+ It's designed to offer enhanced performance, stability. Currently, I'm using **Ubuntu WSL** for development and building with **AOSP Clang** for the kernel compilation. 
 
 ---
 
