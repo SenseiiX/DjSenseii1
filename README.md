@@ -10,7 +10,7 @@ Welcome to my project! 🚀
 
 The goal of this project is to provide a custom kernel for Poco F4, fine-tuned for Better Performance without sacrificing the Battery.
 
-Currently, the project uses **Nongki 4.19** for kernel development, with **AOSP Clang** as the preferred toolchain.
+Currently, the project uses **AOSP Clang** as the preferred toolchain.
 
 ---
 
