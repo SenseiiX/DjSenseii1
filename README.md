@@ -1,4 +1,4 @@
-# Custom Android Kernels
+# FusionX Kernel
 
 Welcome to my project! 🚀
 
@@ -6,25 +6,33 @@ Welcome to my project! 🚀
 
 ---
 
-## 🚀 Project Overview
-
-The goal of this project is to provide a custom kernel for Poco F4, fine-tuned for Better Performance without sacrificing the Battery.
-
-Currently, the project uses **AOSP Clang** as the preferred toolchain.
-
----
-
-## 🛠️ Development Environment
-
-- **OS:** Ubuntu WSL / Github
-- **Toolchain:** AOSP Clang (new update)
-- **Kernel:** Custom Android Kernel based on **N0Kernel**
+[![Kernel Version](https://img.shields.io/badge/Kernel-4.19-blue.svg)]
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/fusi0nx)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/senseixhub)
+[![License](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ---
+## 📌 **Features**
 
+✨ **Performance Enhancements**  
+- Optimized CPU governors and I/O schedulers for smoother performance.
+- Improved memory management for faster app launches.
+
+🔋 **Battery Optimization**  
+- Advanced power-saving tweaks for longer battery life.
+- Wakelock blockers to reduce unnecessary battery drain.
 
 ## GitHub Profile Stats
-![DjSenseii1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DjSenseii1&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![DjSenseii1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SenseiiX&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
+---
+
+## 📞 **Support**
+
+If you have any questions, issues, or suggestions, feel free to reach out:
+
+- **Telegram Channel**: [Open Channel](https://t.me/fusi0nx)  
+- **Telegram Group**: [Open Group](https://t.me/senseixhub)  
 
 ---
 
