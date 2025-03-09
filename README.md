@@ -11,6 +11,8 @@ Welcome to my project! 🚀
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg)](https://t.me/senseixhub)
 [![License](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+![Tech Company Presentation](https://github.com/SenseiiX/SenseiiX/blob/main/Black%20and%20Grey%203D%20Shapes%20Tech%20Company%20Presentation.jpg?raw=true)
+
 ---
 ## 📌 **Features**
 
